@@ -1,3 +1,3 @@
 # Poker_in_Java_Swing
-<b>PL:</b> To repozytorium zawiera projekt w języku Java stworzony podczas moich studiów na Politechnice Świętokrzyskiej wspólnie z <a href="https://github.com/Kulencjusz">Wiktorią Wójcik</a>.<br/> 
+<b>PL:</b> To repozytorium zawiera projekt w języku Java stworzony podczas moich studiów na Politechnice Świętokrzyskiej wspólnie z <a href="https://github.com/Kulencjusz">Wiktorią Wójcik</a>. Jest to gra - poker pięciokartowy, napisana z wykorzystaniem biblioteki Swing i narzędzia Maven, a także bazy OracleSQL. Posiada ona możliwość grania multiplayer za pośrednictwem logiki klient-serwer. Projekt zawiera również testy jednostkowe aplikacji w JUnit.<br/> 
 <b>ENG:</b> This repository contains project in Java language that was created during my studies at the Kielce University of Technology together with <a href="https://github.com/Kulencjusz">Wiktoria Wójcik</a>.<br/>
